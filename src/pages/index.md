@@ -1,11 +1,11 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
+title: Private Virtual or In-Home Music Lessons
 image: /img/keeper_0.jpg
 heading: Private Virtual or In-Home Music Lessons
 subheading: Saxophone, Flute, Clarinet, Piano, and Guitar
 mainpitch:
-  title: Why Kaldi
+  title: About the Music Lessons
   description: >
     Kaldi is the coffee store for everyone who believes that great coffee
     shouldn't just taste good, it should do good too. We source all of our beans
@@ -17,7 +17,7 @@ description: Kaldi is the ultimate spot for coffee lovers who want to learn
   knowledge to anyone.
 intro:
   blurbs:
-    - image: /img/coffee.png
+    - image: /img/coffee-gear.png
       text: >
         We sell green and roasted coffee beans that are sourced directly from
         independent farmers and farm cooperatives. We’re proud to offer a
